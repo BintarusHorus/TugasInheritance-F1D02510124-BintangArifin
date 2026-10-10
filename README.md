@@ -25,4 +25,4 @@ Repositori ini berisi implementasi konsep Object-Oriented Programming (OOP) dala
 | **2. Bujur Sangkar** | ![Bujur Sangkar](BujurSangkar.png) |
 | **3. Lingkaran** | ![Lingkaran](Lingkaran.png) |
 | **4. Silinder** | ![Silinder](Silinder.png) |
-| **5. Keluar** | ![Keluar](Keluar.png) |
+| **5. Keluar** | ![Keluar](Keluar.png) |j
